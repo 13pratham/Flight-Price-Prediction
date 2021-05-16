@@ -1,2 +1,2 @@
 # Flight Price Prediction
-Download the project and run the .pyinb file in the jupyter notebook
+Download the project and run the .ipynb file in the jupyter notebook
